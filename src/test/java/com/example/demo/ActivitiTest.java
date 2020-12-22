@@ -119,7 +119,7 @@ public class ActivitiTest {
                 .taskAssignee("zhangsan")
                 .list();
 
-        //4.输出任务列表的一些信息
+        //4.输出任务列表的
         for (Task task : taskList) {
             System.out.println("流程实例ID:" + task.getProcessInstanceId());
             System.out.println("任务ID:" + task.getId());
