@@ -136,7 +136,6 @@ public class ActivitiTest {
      *     act_hi_actinst       流程实例信息
      *     act_hi_identitylink  任务参与者
      *     act_hi_taskinst      当前任务流程
-     *     act_ru_execution
      *     act_ru_identitylink  新任务涉及用户
      *     act_ru_task          添加新任务并删除旧任务
      */
@@ -186,7 +185,6 @@ public class ActivitiTest {
      *     act_hi_actinst       流程实例信息
      *     act_hi_identitylink  任务参与者
      *     act_hi_taskinst      当前任务流程
-     *     act_ru_execution
      *     act_ru_identitylink  新任务涉及用户
      *     act_ru_task          添加新任务并删除旧任务
      */
@@ -236,9 +234,6 @@ public class ActivitiTest {
      *     act_hi_actinst       流程实例信息
      *     act_hi_identitylink  任务参与者
      *     act_hi_taskinst      当前任务流程
-     *     act_ru_execution
-     *     act_ru_identitylink  新任务涉及用户
-     *     act_ru_task          添加新任务并删除旧任务
      */
     @Test
     public void wangwuComplete() {
