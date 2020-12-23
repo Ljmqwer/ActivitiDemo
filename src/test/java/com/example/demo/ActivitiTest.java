@@ -67,7 +67,7 @@ public class ActivitiTest {
 
     /**
      * 3. 流程实例
-     *
+     *123
      *
      * 流程定义好比Java中写好的一个类
      * 流程实例好比Java中写好的一个实例(对象)
