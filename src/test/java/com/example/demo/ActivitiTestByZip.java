@@ -21,7 +21,7 @@ public class ActivitiTestByZip {
      * 流程定义部署(通过Zip压缩包形式就行部署文件)
      *
      * 背后影响的表:
-     *      act_re_deployment  流程部署表 部署信息
+     *      act_re_deployment  流程部署表 部署
      *      act_re_procdef    流程定义表 流程定义的一些信息
      *      act_ge_bytearray 存放静态资源 存储图片、bpmn流程图文件
      */
